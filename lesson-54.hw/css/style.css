@@ -1,0 +1,27 @@
+.block {
+    font-size: 50px;
+    background: black;
+    height: 200%;
+    color: white;
+}
+
+.block__rect {
+    background: white;
+    height: 100px;
+    width: auto;
+    border-radius: 10px;
+    position: fixed;
+    left: 50%;
+    bottom: 100px;
+    right: 50px;
+}
+
+.block__circle {
+    background: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    position: absolute;
+    left: 120px;
+    bottom: 50px;     
+}
