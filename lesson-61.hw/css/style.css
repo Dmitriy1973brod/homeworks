@@ -1,0 +1,25 @@
+body {
+    background-color: #414143;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    padding: 30px;
+    height: 100%;
+}
+
+.block {
+    display: grid;
+    grid-template-columns: repeat(5, .2fr);
+    grid-template-rows: 100px 150px 200px 250px 300px;
+}
+
+.block__item {
+    background: #670b73;
+    border: 5px solid #080a96;
+    font-size: 50px;
+    padding: auto;
+    text-align: center;    
+}
+
