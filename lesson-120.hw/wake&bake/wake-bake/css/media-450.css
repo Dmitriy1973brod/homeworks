@@ -1,0 +1,30 @@
+@media (max-width: 450px) {
+    .about__img-play {        
+        width: 100%;        
+        left: 0;
+        right: 0;
+        bottom: 0;        
+        border-radius: 0;        
+        padding: 10px 10px;
+    }  
+
+    .modal__window {        
+        padding: 0 30px 40px;        
+    }
+
+    .modal__title {
+        font-size: 10vw;
+    }
+
+    .modal__img {
+        margin: -45px 15px 15px 0;
+        width: 70%;
+    }
+    
+    .accordion-list__title {
+        font-size: 10vw;        
+    }  
+    .accordion-list__content-inner {        
+        padding: 0 10px 20px;   
+    }
+}
