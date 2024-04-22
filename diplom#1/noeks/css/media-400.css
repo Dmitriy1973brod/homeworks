@@ -1,0 +1,120 @@
+@media (max-width: 400px) {
+
+    .hero__heading-text {
+        font-size: 16px;
+        margin-bottom: 25vh;
+    }    
+    
+    .hero__text {
+        font-size: 16px;
+        top: 40vh;
+    }
+
+    /* --------------------------------- */
+    .engensurv__content-title {
+        margin-bottom: 25px;
+    }
+
+    /* ------------------------------------ */
+    .contact__body {
+        width: 100%;
+    }
+
+    .contact__form {
+        width: 100%;
+    }
+
+    .contact__form-button--mobil {
+        width: 100%;
+    }
+
+    /* ------------------------------------- */
+
+    .pages__heading {
+        flex-direction: column;
+        margin: 6px 0 24px;
+        gap: 16px;
+    }
+
+    title {
+        font-size: 24px;
+        margin-bottom: 16px;        
+    }
+
+    .aboutus__quality-text {
+        font-size: 20px;        
+        padding: 32px 0 24px;
+    }
+
+    .aboutus__quality-descr--mobil {        
+        padding-bottom: 32px;
+    }
+
+    .projects__body-img {
+        width: 320px;
+        height: 350px; 
+    }
+
+    .projects__body-img img {
+        width: 320px;
+        height: 350px;     
+    }
+
+    .aboutus__know-content--text {
+        margin-bottom: 32px;
+    }
+
+    .statistics__list {
+        display: flex;
+        flex-direction: column;        
+    }
+    
+    .statistics__item:nth-child(1),
+    .statistics__item:nth-child(2), 
+    .statistics__item:nth-child(3), 
+    .statistics__item:nth-child(4), 
+    .statistics__item:nth-child(5) {
+        padding: 24px 36px;
+        border-right: none;
+        border-top: 1px solid #E5E5E5;
+        border-bottom: 1px solid #E5E5E5 ;
+    }
+
+    .aboutus__advantages-item {        
+        padding: 16px 0;
+        gap: 32px;
+    }
+
+    /* ------------------------------------------- */
+
+    .services__item-content--title {
+        font-size: 21px;
+    }
+
+    .services__button, 
+    .prices__button {
+        width: 100%;
+    }
+
+    /* -------------------------------------------- */
+
+    .prices__control-title {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    .prices__bitem-item {
+        padding: 15px 0;
+    }
+
+    .prices__body-name {
+        font-size: 16px;
+    }
+
+    /* -------------------------------------------- */
+
+    .jobopen__descr-prof--buttom {
+        width: 100%;
+    }
+
+}

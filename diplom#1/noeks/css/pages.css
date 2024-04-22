@@ -1,0 +1,14 @@
+
+
+/* ================================================== */
+
+/* .main {
+    display: none;
+} */
+
+.pages__heading {
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 0;
+}
+
