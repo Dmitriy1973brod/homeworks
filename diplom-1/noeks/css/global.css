@@ -9,6 +9,10 @@
     --general-text: #393939;
 }
 
+html {
+    scroll-behavior: smooth;    
+}
+
 .body {    
     background: var(--accent-bg);
     font-family: "Montserrat", "Arial", sans-serif;
